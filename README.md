@@ -10,5 +10,5 @@ streamlit을 활용해 구현한 축구 기반 판단력 테스트 웹 입니다
 - 결과 분석(플레이 스타일 및 약점 영역 분석)
 
 ## 실행 방법
-pip install -r requirement.txt
+pip install -r requirement.txt  
 streamlit run app.py
